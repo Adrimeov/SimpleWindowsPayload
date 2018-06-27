@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <winsock2.h>
 #include <windows.h>
-unsigned char server[]="192.168.1.210";
-unsigned char serverp[]="80";
+unsigned char server[]="192.168.1.213";
+unsigned char serverp[]="3790";
 void winsock_init() {
  WSADATA wsaData;
  WORD wVersionRequested;
